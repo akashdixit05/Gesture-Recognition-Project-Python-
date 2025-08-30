@@ -24,8 +24,9 @@ It uses **MediaPipe** for hand tracking, **OpenCV** for video processing, and **
 
 ### 1. Clone this repository
     ```bash
-    git clone https://github.com/yourusername/index-finger-swipe-controls.git
+    git clone https://github.com/akashdixit05/Gesture-Recognition-Project-Python.git
     cd index-finger-swipe-controls
+    
 
 ### 2. Install Dependencies -required libraries
     pip install opencv-python mediapipe
